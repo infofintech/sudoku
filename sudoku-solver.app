@@ -1,1 +1,1 @@
-Sudoku Solver|[1]|sys.eval.png|[1]|window.location.href='sudoku-solver.htm';
+title|[>]|Sudoku Solver|[1]|favicon|[>]|sys.eval.png|[1]|run|[>]|window.location.href='sudoku-solver.htm';
